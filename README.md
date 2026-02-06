@@ -1,24 +1,12 @@
-## 👋 Hi, I'm Jamersom Silva
+👋 Hi, I'm Jamersom Silva
+I'm a Junior Mobile Developer with a strong focus on the Android Ecosystem. I enjoy building applications that make sense in the real world—well-structured, stable, and designed to provide a great user experience.
 
-I'm a **Full Stack Developer** with a strong focus on **Back-end**, and I enjoy building applications that make sense in the real world  well-structured, secure, and designed to actually work.
-I build complete  applications, with well-structured APIs, clear business logic, and strong attention to code quality.
+My main focus is on Kotlin and Modern Android Architecture, using tools like Jetpack to build native solutions. I also have hands-on experience with React Native and JavaScript, allowing me to bridge the gap between native and cross-platform development when needed.
 
-When an idea comes up, I usually turn it into a project and evolve it step by step until it becomes solid and reliable.
+Currently, I develop my projects and freelance solutions through Kore Mobile Solutions, where I turn ideas into solid, reliable software step by step.
 
-My main stack includes Node.js, Express, TypeScript, React, and Next.js. I also work with Django, Prisma, and SQL databases.
+I have a solid foundation in Software Engineering and Data Structures (maintaining a 9.3 GPA at Estácio), and I believe that well-written code comes from deep understanding, not from rushing. I take software development seriously and aim to be a reliable developer who delivers clean, testable logic using Git and Jest.
 
-I have several pinned projects here on GitHub, such as Financefy, Flowro, and LaunchBox, which reflect how I learn and build software.
-I have a solid foundation in **business logic and code organization**, while also having enough front-end skills to build complete solutions end to end.
-
-I usually study the theory before implementing things, because I believe **well-written code comes from understanding, not from rushing**.  
-I prefer to grow consistently, focusing on quality and clarity in everything I build.
-
-> 💡 I take software development seriously and aim to be someone **reliable**, both in code and in process.
-
----
-
-
-
-
+💡 My goal is to grow consistently, focusing on code quality and technical clarity in every mobile experience I build.
 
 ⭐ Always open to learning, collaborating, and growing as a developer.

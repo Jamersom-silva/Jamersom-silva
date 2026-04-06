@@ -20,7 +20,7 @@ Currently improving my skills in backend development and cloud technologies.
 ## 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,aws,react,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,aws,react,git,postgresql" />
 </p>
 
 ---
@@ -38,15 +38,6 @@ Currently improving my skills in backend development and cloud technologies.
 ### 📅 Scheduling System
 - Online scheduling with validation rules  
 - Backend-focused architecture  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jamersom-silva&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamersom-silva&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 

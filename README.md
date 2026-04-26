@@ -1,43 +1,51 @@
 <h1 align="center">Jamersom Silva</h1>
 
 <p align="center">
-  <strong>Java Backend Developer</strong>
+  <strong>Python Backend Developer</strong>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a backend developer focused on building Java-based solutions to solve real-world business problems.  
-I prioritize clean, organized, and efficient code, always aiming to generate practical impact.
+I'm a backend developer focused on building Python-based solutions to solve real-world business problems.  
+I prioritize clean, organized, and efficient code, aiming to deliver practical impact.
 
-I have experience developing REST APIs with JWT authentication and role-based access control, as well as building systems such as Financial ERP, e-commerce platforms, and online scheduling systems.
+I have experience developing RESTful APIs using Django and Django REST Framework, including authentication, role-based access control, and automated testing.
 
-Currently improving my skills in backend development and cloud technologies.
+I’ve built real-world solutions such as scheduling APIs, file management systems, and internal tools that improved business processes and reduced operational losses.
+
+Currently improving my skills in backend systems, automation, and scalable applications.
 
 ---
 
 ## 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,aws,react,git,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,django,docker,postgresql,git" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 💰 Financial ERP System
-- Backend built with Java and Spring Boot  
-- Financial control, reports, and business rules  
+### 💰 Financefy (Financial Management System)
+- Backend built with Django and Django REST Framework  
+- Manages accounts, categories, and financial transactions  
+- RESTful API with structured data handling and business rules  
+- Focus on data organization, reporting, and financial control  
 
-### 🛒 E-commerce Platform
-- REST API with JWT authentication  
-- Product, user, and order management  
+### 📅 Scheduling API
+- Built with Django REST Framework  
+- Authentication, CRUD operations, and automated tests  
 
-### 📅 Scheduling System
-- Online scheduling with validation rules  
-- Backend-focused architecture  
+### 📂 File Management System
+- Upload and access control per user  
+- Backend with Django  
+
+### 📊 Inventory & Automation Tools
+- Python-based solutions for stock control and process optimization  
+- Data-driven decision support  
 
 ---
 

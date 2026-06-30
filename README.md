@@ -19,7 +19,7 @@ Currently focused on improving my skills in backend systems, automation, and sca
 ## 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,docker,postgresql,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,flask,django,docker,postgresql,git" />
 </p>
 
 ---

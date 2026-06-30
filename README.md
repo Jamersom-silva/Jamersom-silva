@@ -1,7 +1,7 @@
 <h1 align="center">Jamersom Silva</h1>
 
 <p align="center">
-  <strong>Python Backend Developer</strong>
+  <strong> Backend Developer</strong>
 </p>
 
 ---
